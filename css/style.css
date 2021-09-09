@@ -61,11 +61,7 @@ div {
     text-align: left; 
 } 
 
-footer {
-    padding-bottom: 10px;
-    padding-right: 10px;
-}
-
-footer p { 
+footer p{
+    padding: 0 10px 10px 0;
     text-align: center;
-} 
+}
